@@ -25,3 +25,7 @@ from <https://stat.ethz.ch/R/daily/alpha/> which is only available through https
 The rest of the R releases are available from CRAN, currently through both
 [http](http://cran.r-project.org/src/base/) and
 [https](https://cran.r-project.org/src/base/).
+
+# Other tools:
+
+* Portable OpenBSD Yacc [oyacc-1.34.tar.gz](oyacc-1.34.tar.gz)
