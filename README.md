@@ -19,7 +19,8 @@
 * R 0.16 (alpha) [R-0.16alpha.tar.gz](R-0.16alpha.tar.gz) (1997-02-07)
 * R 0.16.1 (alpha) [R-0.16.1alpha.tar.gz](R-0.16.1alpha.tar.gz) (1997-02-09)
 
-These releases are available through both http and https.
+These releases are available through both http and https. They are
+from <https://stat.ethz.ch/R/daily/alpha/> which is only available through https.
 
 The rest of the R releases are available from CRAN, currently through both
 [http](http://cran.r-project.org/src/base/) and
